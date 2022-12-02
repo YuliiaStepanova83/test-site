@@ -1,0 +1,38 @@
+html {
+    font-size: 14px;
+    font-family: 'Dancing Script', cursive;
+    background-color: #e2cef6;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #dd86da;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #e2cef6;
+    text-shadow: 3px 3px 1px black;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 400px;
+}
+
+button {
+    margin-bottom: 20px;
+}px
